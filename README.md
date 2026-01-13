@@ -1,16 +1,58 @@
-# habit_tracker
+# 📅 Habit Tracker App (Flutter)
 
-A new Flutter project.
+A clean, modern Habit Tracker built with Flutter to help users build consistency and improve daily routines.  
+This app is part of my Flutter portfolio and demonstrates real-world features like persistence, theming, onboarding, streak tracking, and progress analytics.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 📝 Create & manage habits  
+- 🗂️ Categories (Health, Study, Fitness, Personal, etc.)  
+- 🔥 Streak tracking per habit  
+- 📊 Progress overview (Completed Today, Best Streak, Total Habits)  
+- 🗓️ Calendar view for each habit  
+- ✏️ Edit habits (rename, change category, reset streak)  
+- 🌙 Light & Dark mode (saved automatically)  
+- 🏆 Achievements & badges (e.g. *7-Day Streak*, *Consistency King*)  
+- 🚀 Onboarding screen for first-time users  
+- 💾 Local persistence (data is saved on device)
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**
+- **Dart**
+- Local storage (Hive / Shared Preferences)
+- Material 3 UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Emma005991/habit-tracker.git
+cd habit-tracker
+Install dependencies:
+
+bash
+Copy code
+flutter pub get
+Run the app:
+
+bash
+Copy code
+flutter run
+🎯 Purpose
+This project is part of my Flutter portfolio and demonstrates:
+
+State management
+
+Local data persistence
+
+Clean UI/UX design
+
+Multi-screen navigation
+
+Feature-rich app architecture
+
+Cross-platform Flutter development
+
+Built by Emmanuel 🚀
+Flutter Developer | Mobile App Enthusiast
