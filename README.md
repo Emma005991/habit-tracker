@@ -1,3 +1,4 @@
+
 # 📅 Habit Tracker App (Flutter)
 
 A clean, modern Habit Tracker built with Flutter to help users build consistency and improve daily routines.  
@@ -18,41 +19,45 @@ This app is part of my Flutter portfolio and demonstrates real-world features li
 
 ## 🛠️ Tech Stack
 
-- **Flutter**
-- **Dart**
-- Local storage (Hive / Shared Preferences)
-- Material 3 UI
+- Flutter  
+- Dart  
+- Local storage (Hive / Shared Preferences)  
+- Material 3 UI  
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
+Clone the repository:
+
 ```bash
 git clone https://github.com/Emma005991/habit-tracker.git
 cd habit-tracker
+````
+
 Install dependencies:
 
-bash
-Copy code
+```bash
 flutter pub get
+```
+
 Run the app:
 
-bash
-Copy code
+```bash
 flutter run
-🎯 Purpose
+```
+
+## 🎯 Purpose
+
 This project is part of my Flutter portfolio and demonstrates:
 
-State management
+* State management
+* Local data persistence
+* Clean UI/UX design
+* Multi-screen navigation
+* Feature-rich app architecture
+* Cross-platform Flutter development
 
-Local data persistence
+Built by **Emmanuel** 🚀
+*Flutter Developer | Mobile App Enthusiast*
 
-Clean UI/UX design
-
-Multi-screen navigation
-
-Feature-rich app architecture
-
-Cross-platform Flutter development
-
-Built by Emmanuel 🚀
-Flutter Developer | Mobile App Enthusiast
+```
+```
