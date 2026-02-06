@@ -54,9 +54,9 @@ This project is part of my Flutter portfolio and demonstrates:
 * Clean UI/UX design
 * Multi screen navigation
 * Feature rich app architecture
-* Cross-platform Flutter development
+* Cross platform Flutter development
 
-Built by **Emmanuel** 🚀
-*Flutter Developer | Mobile App Enthusiast*
+Built by **Emmanuel** 
+*Flutter Developer*
 
 
